@@ -16,7 +16,7 @@ interface HeroSectionProps {
 }
 
 const HeroSection = ({
-  name = "Tejaji",
+  name = "Pandu",
   title = "Full Stack Developer & AI Enthusiast", 
   description = "Building innovative solutions with Python, React, and AI. Passionate about chatbots, gaming, and open source collaboration.",
   githubUrl = "https://github.com/Tejaji-0",
